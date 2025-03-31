@@ -1,0 +1,4 @@
+﻿  bfs.cpp
+C:\Users\jyjy2\OneDrive\바탕 화면\c++\자료구조\16953\bfs.cpp(22,32): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jyjy2\OneDrive\바탕 화면\c++\자료구조\16953\bfs.cpp(26,37): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  16953.vcxproj -> C:\Users\jyjy2\OneDrive\바탕 화면\c++\자료구조\x64\Debug\16953.exe

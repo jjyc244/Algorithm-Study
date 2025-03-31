@@ -1,0 +1,8 @@
+﻿  아기상어(구현,bfs).cpp
+C:\Users\jyjy2\OneDrive\바탕 화면\c++\자료구조\16236\아기상어(구현,bfs).cpp(60,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jyjy2\OneDrive\바탕 화면\c++\자료구조\16236\아기상어(구현,bfs).cpp(68,15): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jyjy2\OneDrive\바탕 화면\c++\자료구조\16236\아기상어(구현,bfs).cpp(82,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jyjy2\OneDrive\바탕 화면\c++\자료구조\16236\아기상어(구현,bfs).cpp(90,15): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jyjy2\OneDrive\바탕 화면\c++\자료구조\16236\아기상어(구현,bfs).cpp(100,15): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jyjy2\OneDrive\바탕 화면\c++\자료구조\16236\아기상어(구현,bfs).cpp(108,15): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  16236.vcxproj -> C:\Users\jyjy2\OneDrive\바탕 화면\c++\자료구조\x64\Debug\16236.exe
